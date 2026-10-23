@@ -1,0 +1,17 @@
+# general things to ignore
+build/
+dist/
+*.egg-info/
+*.egg
+*.py[cod]
+__pycache__/
+*.so
+*~
+.venv/
+.idea/
+.DS_Store
+
+# tool caches
+.pytest_cache/
+.ruff_cache/
+.cache
